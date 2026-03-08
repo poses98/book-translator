@@ -22,7 +22,7 @@ Translate books (EPUB and PDF) from English to any language using Claude's API w
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/book-translator.git
+git clone https://github.com/poses98/book-translator.git
 cd book-translator
 ```
 
