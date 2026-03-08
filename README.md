@@ -132,6 +132,25 @@ Edit `BookTranslator` initialization in `main.py` to customize:
 
 MIT License - see LICENSE file for details
 
+## Disclaimer
+
+This tool is provided for educational and personal use only. Users are solely responsible for:
+
+- Ensuring they have legal rights to translate and modify any books or documents processed with this software
+- Complying with applicable copyright laws and intellectual property regulations
+- Obtaining necessary permissions from copyright holders before translating copyrighted material
+- Using translations only for permitted purposes (personal use, fair use, etc.)
+
+The creator and maintainers of this software are not responsible for:
+
+- Copyright infringement or intellectual property violations by users
+- Unauthorized use or distribution of translated content
+- Any legal consequences resulting from the use of this software
+- The accuracy or quality of translations produced
+- Data loss or system damage caused by this software
+
+Users must not use this tool to infringe upon copyrighted works or violate any applicable laws. By using this software, you acknowledge that you understand and accept full legal responsibility for your actions.
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or open issues.
