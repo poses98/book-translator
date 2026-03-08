@@ -1,0 +1,6 @@
+anthropic>=0.31.0
+ebooklib>=0.18
+beautifulsoup4>=4.12.0
+pymongo>=4.6.0
+pypdf>=4.0.0
+reportlab>=4.0.0

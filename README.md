@@ -43,7 +43,7 @@ python -m venv .venv
 
 4. Install dependencies:
 ```bash
-pip install anthropic ebooklib beautifulsoup4 pymongo pypdf reportlab
+pip install -r requirements.txt
 ```
 
 5. Set up your API key:
